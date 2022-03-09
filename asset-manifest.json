@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://mypingux.github.io/csb-w4b33r/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "https://mypingux.github.io/csb-w4b33r/static/js/main.a98fcec7.chunk.js",
+    "main.js.map": "https://mypingux.github.io/csb-w4b33r/static/js/main.a98fcec7.chunk.js.map",
+    "runtime-main.js": "https://mypingux.github.io/csb-w4b33r/static/js/runtime-main.ea113e4e.js",
+    "runtime-main.js.map": "https://mypingux.github.io/csb-w4b33r/static/js/runtime-main.ea113e4e.js.map",
+    "static/js/2.526c9b78.chunk.js": "https://mypingux.github.io/csb-w4b33r/static/js/2.526c9b78.chunk.js",
+    "static/js/2.526c9b78.chunk.js.map": "https://mypingux.github.io/csb-w4b33r/static/js/2.526c9b78.chunk.js.map",
+    "index.html": "https://mypingux.github.io/csb-w4b33r/index.html",
+    "precache-manifest.02b4272d1046febfb158817887ad14f8.js": "https://mypingux.github.io/csb-w4b33r/precache-manifest.02b4272d1046febfb158817887ad14f8.js",
+    "service-worker.js": "https://mypingux.github.io/csb-w4b33r/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "https://mypingux.github.io/csb-w4b33r/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.526c9b78.chunk.js.LICENSE": "https://mypingux.github.io/csb-w4b33r/static/js/2.526c9b78.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea113e4e.js",
+    "static/js/2.526c9b78.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a98fcec7.chunk.js"
+  ]
+}
